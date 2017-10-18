@@ -2,7 +2,7 @@ h1 {
   font-size: 100px;
   color: khaki;
   text-align: center;
-  background-image: url(/Users/Clare/Desktop/CODECADEMY/Dasmoto/resources/pattern.jpeg)
+  background-image: url(./resources/pattern.jpeg)
 }
 
 h1, h2 {
